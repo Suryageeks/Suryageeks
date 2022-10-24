@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suryageeks
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning Computer Vision
+- 🌱 I’m currently learning Computer Vision and Full Stack Development
 - 📫 How to reach me at suryasarkar18@gmail.com
 
 <!---
