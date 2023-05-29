@@ -1,3 +1,5 @@
+![Header](./header.png)
+
 <h2 align="left">Hi 👋! I'm Surya Sarkar, an experienced Software Developer skilled in creating products using a wide range of technologies.</h2>
 
 ###
